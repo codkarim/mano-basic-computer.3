@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_5.srcs/sources_1/new/ALU.v" \
+"../../../../project_5.srcs/sources_1/new/Address_Regester.v" \
+"../../../../project_5.srcs/sources_1/new/BUS.v" \
+"../../../../project_5.srcs/sources_1/new/Data_Regester.v" \
+"../../../../project_5.srcs/sources_1/new/Instruction_Regester.v" \
+"../../../../project_5.srcs/sources_1/new/Memory.v" \
+"../../../../project_5.srcs/sources_1/new/Seqence_counter.v" \
+"../../../../project_5.srcs/sources_1/new/Timer.v" \
+"../../../../project_5.srcs/sources_1/new/operation_selecction.v" \
+"../../../../project_5.srcs/sources_1/new/processor_reg.v" \
+"../../../../project_5.srcs/sources_1/new/program_counter.v" \
+"../../../../project_5.srcs/sources_1/new/mano.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

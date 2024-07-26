@@ -1,0 +1,7 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinxx/Vivado/2018.2/bin/unwrapped/win64.o/xelab.exe -wto 754862d0675b4d8b903aff8dbeae541e --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot Timer_behav xil_defaultlib.Timer xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-858] illegal recursive design instantiation, instance name w5 [D:/micro_projects/project_5/project_5.srcs/sources_1/new/operation_selecction.v:34]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

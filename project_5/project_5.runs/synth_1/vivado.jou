@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed May  8 21:52:16 2024
+# Process ID: 10568
+# Current directory: D:/micro_projects/project_5/project_5.runs/synth_1
+# Command line: vivado.exe -log mano.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mano.tcl
+# Log file: D:/micro_projects/project_5/project_5.runs/synth_1/mano.vds
+# Journal file: D:/micro_projects/project_5/project_5.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mano.tcl -notrace
